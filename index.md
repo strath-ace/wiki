@@ -4,6 +4,6 @@ The Strathclyde Mechanical and Aerospace Research Toolbxes (SMART) is a project 
 
 Please visit the following pages to learn more about the toolboxes already released Open Source and the ones soon to be released
 
-[Open Source Toolboxes](ostools)
+[Open Source Toolboxes](ostoolboxes.md)
 
-[Work in progress Toolboxes](wiptoolboxes)
+[Work in progress Toolboxes](wiptoolboxes.md)
