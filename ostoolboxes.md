@@ -11,7 +11,7 @@ C++ library containing astrodynamic routines for orbital propagation (dynamical 
 Matlab library containing evolutionary based single and multiobjective otimisation techniques for optimisation and optimla control
 
 ### SMART-ML
-Python library containing reinforcement learning algorithms and genetic programmign based strategies for intelligent control
+Python library containing reinforcement learning algorithms and genetic programming based strategies for intelligent control
 
 ### SMART-NLP
 Python library containing lexical preprocessing, topic modelling and word embedding methods tailored to space system design textual corpora
