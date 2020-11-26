@@ -8,7 +8,7 @@ C++ library comprehensive of uncertainty quantification and propagation methods 
 C++ library containing astrodynamic routines for orbital propagation (dynamical systems deifnition, transformation of coordinates, numerical and analytic propagators)
 
 ### SMART-O2C
-Matlab library containing evolutionary based single and multiobjective otimisation techniques for optimisation and optimla control
+Matlab library containing evolutionary based single and multiobjective otimisation techniques for optimisation and optimal control
 
 ### SMART-ML
 Python library containing reinforcement learning algorithms and genetic programming based strategies for intelligent control
